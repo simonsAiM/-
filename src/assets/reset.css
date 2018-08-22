@@ -1,0 +1,19 @@
+body,div,span,p,h1,h2,h3,h4,h5,h6,section,header,footer,nav,a,input,textarea,ul,li,ol,dl,dt,dd{
+    margin :0;
+    padding : 0;
+}
+
+ul,li,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+button,input{
+    outline: none
+}
+
+body{
+    font-size : 14px;
+}
